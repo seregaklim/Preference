@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyTracker</string>
+    <string name="home">Дом</string>
+    <string name="settings">Настройки</string>
+    <string name="tracker">Трекер</string>
+
+    <!--    //xml main_preference-->
+    <string name="update_time">Время обновления</string>
+    <string name="update_time_summary">Время обновления местоположения</string>
+    <string name="location">Mестоположение</string>
+    <string name="blue">Синий</string>
+    <string name="red">Красный</string>
+    <string name="black">Черный</string>
+    <string name="track_color_summary">Выберите цвет дорожки</string>
+    <string name="track_color">Цвет дорожки</string>
+
+</resources>
